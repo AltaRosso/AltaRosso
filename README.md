@@ -1,19 +1,19 @@
-# 💫 About Me:
+## About Me
 
 I'm Sandile Biyela, a passionate FullStack developer on a journey of continuous learning and growth. I believe in the power of self-motivation and leveraging available resources to acquire new skills. While some may consider me "self-taught," I owe a great deal of my knowledge to various learning platforms such as YouTube tutorials, Stack Overflow, and engaging in short courses on platforms like Udemy.
 
-### 🚀 Current Focus 
-👷🏾Currently, I'm exploring the exciting possibilities of integrating gpt-3.5-turbo into my Learning Management System (LMS). My goal is to enhance the learning experience for enrolled students by leveraging the power of GPT-3.5 Turbo. <br>
-🌱 Additionally, I'm expanding my JavaScript expertise by diving into TypeScript. It's an exciting journey that allows me to write more robust and scalable code while enjoying the benefits of static typing.<br>
+### Current Focus 
+Currently, I'm exploring the exciting possibilities of integrating gpt-3.5-turbo into my Learning Management System (LMS). My goal is to enhance the learning experience for enrolled students by leveraging the power of GPT-3.5 Turbo. <br>
+Additionally, I'm expanding my JavaScript expertise by diving into TypeScript. It's an exciting journey that allows me to write more robust and scalable code while enjoying the benefits of static typing.<br>
 
-### 💬 Ask Me About
+### Ask Me About
 If you're interested in discussing anything related to the MERN (MongoDB, Express.js, React, Node.js) stack, I'd be thrilled to share my insights and experiences. From setting up development environments to building scalable web applications, I'm here to help! <br>
 
-### ⚡ Fun Fact
+### Fun Fact
 Did you know that the term "bug" to describe a software error or glitch actually originated from a literal bug? Back in 1947, when computers were massive machines with vacuum tubes, a malfunction occurred in the Harvard Mark II computer. Upon investigation, they found that a moth had gotten trapped in the relay contacts, causing the system to malfunction. The bug was removed, and the incident was recorded as the first official "bug" in a computer. Happy coding! <br><br>
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandile-biyela-5003a3b9/) 
 
 # 💻 Tech Stack:
