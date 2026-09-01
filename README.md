@@ -4,7 +4,7 @@
 
 I'm a product-focused engineer who designs and builds real-world systems from problem to production. I specialize in understanding business challenges and creating technical solutions that drive measurable impact.
 
-Currently building **[StampChat](https://stampchat.lunarvia.co.za)** - a WhatsApp-based loyalty platform helping small businesses increase customer retention and profitability through data-driven insights.
+Currently building **[StampChat](https://stampchat.co.za)** - a WhatsApp-based loyalty platform helping small businesses increase customer retention and profitability through data-driven insights.
 
 ---
 
@@ -19,9 +19,9 @@ A QR-based customer loyalty system integrated with WhatsApp that helps businesse
 - Increase repeat visits through automated rewards
 - Make data-driven operational decisions
 
-**Tech Stack:** Node.js, TypeScript, React, MongoDB, WhatsApp Cloud API, Render
+**Tech Stack:** Node.js, TypeScript, Next.js, React, MongoDB, WhatsApp Cloud API, Render
 
-**Impact:** Live production system serving real businesses with subscription-based revenue model
+**Impact:** Live production system serving real businesses with a subscription-based revenue model.
 
 ---
 
@@ -40,25 +40,24 @@ A QR-based customer loyalty system integrated with WhatsApp that helps businesse
 
 ## 🎯 What I Do
 
-- **Systems Thinking** - I don't just write code; I design solutions that align with business objectives
-- **Problem to Production** - From identifying gaps to deploying live systems that generate real value
-- **Product-Oriented Development** - Every technical decision is driven by user needs and business impact
-- **Ownership & Initiative** - When I see a problem without a solution, I build it
+- **Systems Thinking** - I don't just write code; I design solutions that align with business objectives.
+- **Problem to Production** - From identifying gaps to deploying live systems that generate real value.
+- **Product-Oriented Development** - Every technical decision is driven by user needs and business impact.
+- **Ownership & Initiative** - When I see a problem without a solution, I build it.
 
 ---
 
 ## 🌱 Currently
 
-- Scaling StampChat from pilot customers to sustainable growth
-- Completing Web Development Bootcamp (Stellenbosch University/HyperionDev)
-- Building digital solutions that bridge business needs and technical execution
+- Scaling StampChat from pilot customers to sustainable growth.
+- Building digital solutions that bridge business needs and technical execution.
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandile-biyela-5003a3b9/)    
-**Portfolio:** [stampchat.lunarvia.co.za](https://stampchat.lunarvia.co.za)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandile-biyela-5003a3b9/)  
+**Website:** [stampchat.co.za](https://stampchat.co.za)
 
 ---
 
