@@ -4,24 +4,24 @@
 
 I'm a product-focused engineer who designs and builds real-world systems from problem to production. I specialize in understanding business challenges and creating technical solutions that drive measurable impact.
 
-Currently building **[StampChat](https://stampchat.co.za)** - a WhatsApp-based loyalty platform helping small businesses increase customer retention and profitability through data-driven insights.
+Currently building **[StampChat](https://stampchat.co.za)** - a digital loyalty platform helping small businesses increase customer retention and profitability through zero-friction web technology and data-driven insights.
 
 ---
 
 ## 🚀 What I'm Building
 
-### **StampChat** - SaaS Loyalty Platform
+### **StampChat** - Digital Loyalty Platform
 *Live in Production | Bootstrapped*
 
-A QR-based customer loyalty system integrated with WhatsApp that helps businesses:
-- Track customer frequency and behavior
-- Identify top regulars and peak trading hours
-- Increase repeat visits through automated rewards
-- Make data-driven operational decisions
+A high-conversion customer loyalty system engineered for small businesses to:
+- Eliminate customer onboarding friction with zero app downloads required
+- Track customer frequency, retention, and peak trading hours
+- Boost repeat visits through automated digital stamp cards and rewards
+- Deliver low-latency, fraud-resistant QR verification at the point of sale
 
-**Tech Stack:** Node.js, TypeScript, Next.js, React, MongoDB, WhatsApp Cloud API, Render
+**Tech Stack:** Node.js, Express, TypeScript, Next.js, React, MongoDB, Render
 
-**Impact:** Live production system serving real businesses with a subscription-based revenue model.
+**Impact:** Live production system serving real businesses with a scalable, low-overhead architecture and subscription revenue model.
 
 ---
 
@@ -33,24 +33,24 @@ A QR-based customer loyalty system integrated with WhatsApp that helps businesse
 **Backend & Database**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-**Tools & APIs**  
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+**Tools & Infrastructure**  
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white)
 
 ---
 
 ## 🎯 What I Do
 
-- **Systems Thinking** - I don't just write code; I design solutions that align with business objectives.
-- **Problem to Production** - From identifying gaps to deploying live systems that generate real value.
-- **Product-Oriented Development** - Every technical decision is driven by user needs and business impact.
-- **Ownership & Initiative** - When I see a problem without a solution, I build it.
+- **Systems Thinking** - I don't just write code; I design solutions that align with unit economics and business objectives.
+- **Problem to Production** - From identifying operational bottlenecks to deploying live systems that generate real value.
+- **Product-Oriented Development** - Every technical decision is driven by user conversion, speed, and long-term scalability.
+- **Ownership & Initiative** - When I see an unsolved problem or market inefficiency, I build the solution.
 
 ---
 
 ## 🌱 Currently
 
-- Scaling StampChat from pilot customers to sustainable growth.
-- Building digital solutions that bridge business needs and technical execution.
+- Scaling StampChat across local retail, food & beverage, and service sectors.
+- Optimizing web application performance and real-time merchant analytics.
 
 ---
 
